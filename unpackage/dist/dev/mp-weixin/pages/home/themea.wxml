@@ -1,0 +1,1 @@
+<view><view style="margin:10rpx;"><view style="padding:10rpx;font-size:32rpx;font-weight:700;text-align:center;margin:10rpx;">{{list.title}}</view><view style="padding:10rpx;font-size:29rpx;"><rich-text nodes="{{list.content}}"></rich-text></view></view></view>

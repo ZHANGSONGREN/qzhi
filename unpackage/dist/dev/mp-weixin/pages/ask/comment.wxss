@@ -1,0 +1,47 @@
+
+page {
+
+	background-color: #f8f8f8;
+}
+.c-btn {
+
+	margin: 20rpx;
+	padding: 20rpx;
+	text-align: center;
+}
+.an-ta {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-bottom: 10rpx;
+}
+.an-w {
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.an-nw {
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.an-imga {
+	width: 72rpx;
+	height: 72rpx;
+	margin: 5rpx 15rpx 5rpx 15rpx;
+	border-radius: 99rpx;
+}
+.an-imgb {
+	width: 36rpx;
+	height: 36rpx;
+	margin: 5rpx 1rpx 5rpx 15rpx;
+}
+.an-tb {
+	width: 660rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.an-gr {
+	font-size: 27rpx;
+	color: #c8c8c8;
+}
+

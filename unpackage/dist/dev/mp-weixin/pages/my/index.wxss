@@ -1,0 +1,43 @@
+
+page {
+
+	background-color: #f8f8f8;
+}
+.no-img {
+	width: 280rpx;
+	height: 256rpx;
+	margin: 20rpx;
+}
+.my-head {
+	width: 750rpx;
+	height: 230rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	background-color: #5ac274;
+	padding-bottom: 30rpx;
+}
+.my-con {
+
+	background-color: #FFFFFF;
+	-webkit-box-shadow: #09BB07;
+	        box-shadow: #09BB07;
+}
+.my-au {
+	width: 150rpx;
+	height: 150rpx;
+	background-color: #FFFFFF;
+	border-radius: 99rpx;
+}
+.my-nk {
+
+	width: 750rpx;
+	color: #FFFFFF;
+	text-align: center;
+}
+

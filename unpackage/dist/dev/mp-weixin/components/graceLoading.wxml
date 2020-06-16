@@ -1,0 +1,1 @@
+<block wx:if="{{loadingType<4}}"><view class="grace-loading grace-ellipsis data-v-00a67bc7"><block wx:if="{{loadingType===1}}"><view class="grace-loading-icon data-v-00a67bc7" style="{{'color:'+(iconColor)+';'}}"></view></block><text style="{{'color:'+(textColor)+';'}}" class="data-v-00a67bc7">{{loadingText[loadingType]}}</text></view></block>

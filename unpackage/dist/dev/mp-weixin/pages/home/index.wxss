@@ -1,0 +1,89 @@
+
+page {
+
+	background-color: #f8f8f8;
+}
+.wz {
+	margin: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 730rpx;
+}
+.wz-a {
+	height: 40rpx;
+	line-height: 40rpx;
+	text-align: center;
+	width: 65rpx;
+	border: 1rpx solid #00aa00;
+	color: #00aa00;
+	font-size: 28rpx;
+}
+.wz-b {
+	height: 40rpx;
+	line-height: 40rpx;
+	font-size: 28rpx;
+	width: 650rpx;
+	margin-left: 30rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.m-add {
+	position: fixed;
+	border-radius: 12rpx 0 0 12rpx;
+
+	color: #FFFFFF;
+	width: 150rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	bottom: 30rpx;
+	right: 0;
+	z-index: 999;
+}
+.m-head {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	width: 750rpx;
+	height: 320rpx;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 15rpx;
+}
+.m-head-ta {
+	width: 710rpx;
+	margin: 5rpx;
+	text-align: center;
+	justify-items: center;
+}
+.m-img {
+	width: 128rpx;
+	height: 128rpx;
+	border-radius: 99rpx;
+}
+.m-head-tb {
+	border-radius: 9rpx;
+
+	padding: 8rpx;
+}
+.m-head-tc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	width: 750rpx;
+	background-color: #FFFFFF;
+
+	padding: 20rpx;
+}
+

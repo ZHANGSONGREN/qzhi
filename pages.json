@@ -1,0 +1,197 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "圈子首页",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				},
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/message/index",
+			"style": {
+				"navigationBarTitleText": "消息",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/ask/query",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/my/authb",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/index/oldvip",
+			"style": {
+				"navigationBarTitleText": "邀请注册",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		
+		{
+			"path": "pages/home/themea",
+			"style": {
+				"navigationBarTitleText": "查看文章",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/home/themeb",
+			"style": {
+				"navigationBarTitleText": "查看文章",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		{
+			"path": "pages/my/auth",
+			"style": {
+				"navigationBarTitleText": "微信授权",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		{
+			"path": "pages/ask/detail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		{
+			"path": "pages/ask/comment",
+			"style": {
+				"navigationBarTitleText": "评论",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		
+		{
+			"path": "pages/ask/index",
+			"style": {
+				"navigationBarTitleText": "提问",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "说房圈",
+				"app-plus": {
+				
+				"titleNView": false
+				
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#5ac274",
+		"backgroundColor": "#5ac274",
+		"style": {
+			"app-plus": {
+			
+			"titleNView": false
+			
+			}
+		}
+	},
+
+	"tabBar": {
+		"color": "#707070",
+		"selectedColor": "#5ac274",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/home/index",
+				"iconPath": "static/homea.png",
+				"selectedIconPath": "static/homeb.png",
+				"text": "首页"
+			},
+			/*{
+				"pagePath": "pages/message/index",
+				"iconPath": "static/messagea.png",
+				"selectedIconPath": "static/messageb.png",
+				"text": "消息"
+			},*/
+
+			{
+				"pagePath": "pages/my/index",
+				"iconPath": "static/mya.png",
+				"selectedIconPath": "static/myb.png",
+				"text": "我的"
+
+			}
+		]
+	}
+}

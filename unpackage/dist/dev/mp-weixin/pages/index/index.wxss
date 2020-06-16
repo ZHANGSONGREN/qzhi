@@ -1,0 +1,92 @@
+
+page {
+	/*background: linear-gradient(top left, #fafafa, #c9fe96); */
+	background-color: #f8f8f8;
+}
+.bottom-c {
+	width: 750rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 30rpx;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	background-color: #FFFFFF;
+	border-radius: 12rpx 12rpx 0 0;
+}
+.inext-t1 {
+	height: 55rpx;
+	line-height: 55rpx;
+	padding-left: 20rpx;
+}
+.btn {
+
+	margin: 25rpx;
+	width: 500rpx;
+	border: 1rpx solid #5ac274;
+	color: #5ac274;
+	border-radius: 12rpx;
+	background-color: #FFFFFF;
+}
+.inext-btn {
+	width: 100%;
+	margin: 20rpx;
+	padding: 20rpx;
+	text-align: center;
+}
+.navHead {
+	position: relative;
+	margin: 25rpx;
+	padding: 30rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	text-align: center;
+	border-radius: 10rpx;
+}
+.index-main {
+	margin-top: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.index-card {
+	margin: -55rpx 25rpx 5rpx 25rpx;
+	width: 700rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	border-radius: 12rpx;
+}
+.index-img {
+	width: 135rpx;
+	height: 135rpx;
+	border-radius: 99rpx;
+}
+.index-ta {
+	width: 700rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+}
+.index-tb {
+	width: 700rpx;
+	padding: 20rpx;
+}
+.index-avatar {
+	width: 135rpx;
+	height: 135rpx;
+	border-radius: 99rpx;
+	background-color: #f9f9f9;
+	left: 300rpx;
+	z-index: 99;
+}
+

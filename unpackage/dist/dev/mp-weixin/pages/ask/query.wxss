@@ -1,0 +1,16 @@
+
+page {
+
+	background-color: #f8f8f8;
+}
+.v-tags {
+	padding: 0rpx 15rpx 0rpx 15rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	margin: 20rpx;
+	background-color: #ff7a52;
+	color: #FFFFFF;
+	border-radius: 8rpx;
+	text-align: center;
+}
+

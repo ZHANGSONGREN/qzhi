@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "说房圈",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup"
+  }
+}

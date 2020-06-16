@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///E:/ym/qzhi/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA,wCAAmB;;AAEnB;AACA,wM;AACAA,UAAU,CAACC,aAAD,CAAV,C","file":"pages/ask/auth.js","sourcesContent":["import 'uni-pages';import '@dcloudio/uni-stat';\n\nimport Vue from 'vue'\nimport Page from './pages/ask/auth.vue'\ncreatePage(Page)"],"sourceRoot":""}

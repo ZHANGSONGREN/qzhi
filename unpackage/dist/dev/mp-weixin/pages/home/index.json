@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "圈子首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "grace-loading": "/components/graceLoading"
+  }
+}
